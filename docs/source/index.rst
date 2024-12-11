@@ -1,10 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to OpenForis Ground!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+The **GROUND Android app** is a tool for data collection in the field. With GROUND, geodata can
+be recorded in the form of single points as well as polygons. These can be complemented with custom
+tasks and questions during survey design in the GROUND web console, which will then be answered by
+data collectors in the field. Find the OpenForis GROUND website `here <https://openforis.org/solutions/ground/>`_.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
