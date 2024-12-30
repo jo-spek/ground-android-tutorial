@@ -1,6 +1,8 @@
 Welcome to OpenForis Ground!
 ===================================
 
+**BLABLABLABLABLA**
+
 The **GROUND Android app** is a tool for data collection in the field. With GROUND, geodata can
 be recorded in the form of single points as well as polygons. These can be complemented with custom
 tasks and questions during survey design in the GROUND web console, which will then be answered by
